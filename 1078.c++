@@ -1,4 +1,4 @@
-//problema 1078
+// problema 1078
 
 #include <iostream>
 
