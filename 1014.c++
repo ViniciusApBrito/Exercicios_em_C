@@ -1,9 +1,10 @@
-//Problema 1014
+// Problema 1014
 
 #include <iostream>
 #include <iomanip>
 
-int main() {
+int main()
+{
     int distancia;
     double combustivel, consumoMedio;
 

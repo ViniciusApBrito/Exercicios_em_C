@@ -1,9 +1,10 @@
 
-//problema 1003
+// problema 1003
 
 #include <iostream>
 
-int main() {
+int main()
+{
     int A, B, SOMA;
 
     std::cin >> A >> B;

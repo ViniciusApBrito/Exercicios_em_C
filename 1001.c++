@@ -1,8 +1,9 @@
-//problema 1001
+// problema 1001
 
 #include <iostream>
 
-int main() {
+int main()
+{
     int A, B, X;
 
     std::cin >> A >> B;
