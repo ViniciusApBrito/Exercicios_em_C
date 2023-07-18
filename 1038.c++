@@ -1,4 +1,4 @@
-// Problema 1038
+// problema 1038
 
 #include <stdio.h>
 

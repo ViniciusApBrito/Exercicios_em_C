@@ -1,4 +1,4 @@
-// Problema 1014
+// problema 1014
 
 #include <iostream>
 #include <iomanip>

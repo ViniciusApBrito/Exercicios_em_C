@@ -1,4 +1,4 @@
-// Problema 1000
+// problema 1000
 
 #include <iostream>
 
